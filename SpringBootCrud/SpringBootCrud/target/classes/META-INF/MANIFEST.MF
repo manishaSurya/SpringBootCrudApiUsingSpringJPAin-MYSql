@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Manisha Surywanshi
+Build-Jdk: 17.0.4.1
+Implementation-Title: SpringBootCrud
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.xadmin
+Implementation-URL: https://spring.io/projects/spring-boot/SpringBootCru
+ d
+Created-By: Maven Integration for Eclipse
+
